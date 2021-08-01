@@ -1,5 +1,8 @@
 # RestfulTool
 
+**請注意，我把這repo從原作者那邊fork過來只是想編一個在IDEA 2021.2可用的版本，並無對外發佈的計劃，任何權利也歸原作者所有**  
+**當然如果有人要自己編譯我是沒意見啦，但請尊重原作者，也不要用我的名義分享給別人，感謝！ ~ Ming Chang**
+
 <em style="color: red">This is not define in [~~RestfulToolkit~~]()</u></em>
 
 > - `min-version`: `201`
